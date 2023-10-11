@@ -1,3 +1,9 @@
-How do we name temporary branches:
+## How we name temporary branches
 
-TODO
+```
+dev-username-small-feature-description
+```
+Example: 
+```
+dev-dk9148-project-structure
+```
